@@ -1,0 +1,185 @@
+.part_all{
+	width: 800px;
+	height: 1000px;
+	margin: 0 auto;
+}
+
+.part_1{
+	width: 70%;
+	height: 100%;
+	background-image: url(../img/part_1_bg.jpg);
+	float: left;
+}
+
+.part_2{
+	width: 30%;
+	height: 100%;
+	background-image: url(../img/part_2_bg.jpg);
+	float: left;
+}
+
+.part_1_up{
+	height: 180px;
+}
+
+.part_1_up_title{
+	font-size: 50px;
+	color: lightblue;
+	font-family: "黑体";
+	margin: 10px;
+	float: left;
+	width: 200px;
+	height: 50px;
+}
+
+.part_1_up_today{
+	font-size: 20px;
+	color: orange;
+	font-family: "宋体";
+	margin: 15px;
+	float: left;
+	width: 300px;
+	height: 50px;
+}
+
+.part_1_up_today #summary{
+	color: white;
+}
+
+.part_1_search{
+	font-size: 20px;
+	float: left;
+	width: 560px;
+	color: white;
+}
+
+.search_text{
+	padding-left: 20px;
+	float: left;
+	padding-top: 10px;
+}
+
+.search_img{
+	float: left;
+	padding-left: 20px;
+}	
+
+.top_tab{
+	color: yellow;
+	margin-top: 10px;
+}
+
+ul{
+	width: 500px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+li{
+	position: relative;
+	list-style: none;
+	float: left;
+	padding: 12px 33px;
+	color: orange;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+ul li a{
+	text-decoration:none;
+	color: orange;
+}
+
+.active{
+	background-image: url(../img/tab_bg.png);
+}
+
+.active_h{
+	background-image: url(../img/tab_bg.png);
+}
+
+.active_right{
+	background-image: url(../img/tab_bg.png);
+}
+
+.active_right_h{
+	background-image: url(../img/tab_bg.png);
+}
+
+.user_pic{
+	margin-left: 10px;
+	margin-top: 25px;
+}
+
+.user_pic #u_title{
+	color: orange;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.user_pic #u_name{
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.user_num{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.user_num th{
+	color: orange;
+	font-size: 25px;
+}
+
+.user_num tr td{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+.user_button{
+	margin-top: 5px;
+}
+
+.user_button table{
+	margin: 0 auto;
+}
+
+.user_button tr td{
+	text-align: center;
+	font-size: 20px;
+	padding-left:25px ;
+	padding-right: 25px;
+	color: orange;
+	font-weight: bold;
+}
+
+.user_question{
+	border: 0px solid #FFA500;
+	border-radius:20px;
+	background-image: url(../img/question_bg.png);
+	margin: 10px;
+	padding: 5px;
+}
+
+.user_question #q_title{
+	padding-left: 45px;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.user_question p{
+	color: white;
+	margin: 6px;
+	font-size: 16px;
+}
+
+.grow_flower{
+	color: orange;
+	font-size: 25px;
+	font-weight: bold;
+	margin: 20px;
+}

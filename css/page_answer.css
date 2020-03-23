@@ -1,0 +1,169 @@
+.part_1_down{
+	margin: 0;
+}
+
+.main_left{
+	width: 440px;
+	float: left;
+}
+
+.main_left_pic{
+	height: 170px;
+	float: left;
+	margin: 0 auto;
+}
+
+.left_pic{
+	width: 40px;
+	height: 40px;
+	border: 1px solid #70AD47;
+	margin: 0px;
+	background-color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	color: red;
+	font-size: 30px;
+}
+
+.left_pic img{
+	margin-top: 3px;
+}
+
+.main_left_title{
+	margin-top: 10px;
+	margin-left: 15px;
+	width: 350px;
+	float: left;
+	font-weight: bold;
+}
+
+.main_left_content{
+	width: 360px;
+	margin-top: 5px;
+	margin-left: 15px;
+	float: left;
+	
+}
+
+.content_pic{
+	height: 110px;
+	float: left;
+}
+
+.content_text{
+	width: 150px;
+	height: 110px;
+	float: left;
+	margin-left: 10px;
+}
+
+.main_right{
+	width: 110px;
+	float: right;
+	margin: 0 auto;
+}
+
+.main_right_long{
+	float: right;
+	margin: 0 auto;
+}
+
+.right_pic{
+	width: 40px;
+	height: 40px;
+	border: 2px solid #70AD47;
+	border-radius:8px;
+	margin: 8px;
+	margin-left: 48px;
+	box-shadow: 2px 2px 2px #70AD47;
+	background-color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+}
+
+.right_pic img{
+	margin-top: 8px;
+}
+
+.right_pic_long{
+	width: 80px;
+	height: 30px;
+	border: 2px solid #70AD47;
+	border-radius:8px;
+	margin: 8px;
+	padding-top: 5px;
+	box-shadow: 2px 2px 2px #70AD47;
+	background-color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	color: #4472C4;
+	vertical-align: middle;
+}
+
+.main_1{
+	margin-top: 2px;
+	height: 180px;
+	border: 1px solid #4472C4;
+}
+
+.main_2{
+	height: 180px;
+	border: 1px solid #4472C4;
+}
+
+.main_3{
+	height: 150px;
+	border: 1px solid #4472C4;
+}
+
+.main_right_3{
+	width: 80px;
+	height: 30px;
+	border: 2px solid #70AD47;
+	border-radius:8px;
+	margin: 8px;
+	margin-top: 100px;
+	padding-top: 5px;
+	box-shadow: 2px 2px 2px #70AD47;
+	background-color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	color: #4472C4;
+	vertical-align: middle;			
+}
+
+.main_3_pic{
+	margin-top: 5px;
+	margin-left: 15px;
+	float: left;
+	
+}
+
+.main_left_3{
+	width: 440px;
+	float: left;
+	margin-top: 20px;
+}
+
+.main_3_pic_text{
+	margin-left: 20px;
+	float: left;
+	width: 250px;
+}
+
+.main_4{
+	height: 170px;
+	border: 1px solid #4472C4;
+}
+
+.main_5{
+	height: 120px;
+	border: 1px solid #4472C4;
+}
+
+.main_5_pic_text{
+	margin-top: 50px;
+	float: left;
+	width: 540px;
+	text-align: center;
+}

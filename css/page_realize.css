@@ -1,0 +1,77 @@
+/*以下为主要内容样式*/
+.part_1_down{
+	margin: 0;
+}
+.main_title{
+	height: 90px;
+	width: 560px;
+	float: left;
+	color: #4472C4;
+	font-size: 25px;
+	font-weight: bold;
+}
+.main_title img{
+	margin: 15px;
+}
+.main_question{
+	height: 50px;
+	width: 560px;
+	float: left;
+	font-weight: bold;
+}
+.main_question img{
+	margin: 8px;
+	margin-left: 15px;
+}
+.main_content{
+	height: 180px;
+	width: 560px;
+	/*background-color: #70AD47;*/
+	float: left;
+	border-bottom: 2px solid #4472C4;
+}
+.content_left{
+	height: 180px;
+	width: 60px;
+	float: left;
+}
+.content_left img{
+	margin-top: 60px;
+	margin-left: 5px;
+}
+	
+.content_middle{
+	height: 180px;
+	width: 420px;
+	
+	float: left;
+}
+.content_middle img{
+	float: left;
+}
+.content_middle p{
+	margin-left: 10px;
+	width: 120px;
+	float: left;
+	font-size: 17px;
+}
+.content_right{
+	height: 180px;
+	width: 60px;
+	
+	float: right;
+}
+.right_pic{
+	width: 40px;
+	height: 90px;
+	border: 2px solid #70AD47;
+	border-radius:8px;
+	margin: 8px;
+	margin-top: 30px;
+	padding-top: 30px;
+	box-shadow: 2px 2px 2px #70AD47;
+	background-color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	
+}

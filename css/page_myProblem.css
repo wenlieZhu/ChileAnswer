@@ -1,0 +1,111 @@
+/*以下为主要内容样式*/
+.part_1_down{
+	margin: 0;
+}
+.main_title{
+	/*background-color: #6495ED;*/
+	height: 90px;
+	width: 560px;
+	float: left;
+	color: #4472C4;
+	font-size: 25px;
+	font-weight: bold;
+}
+.main_title img{
+	margin: 15px;
+}
+
+.main_time{
+	/*background-color: #70AD47;*/
+	color: #4472C4;
+	font-size: 25px;
+	font-weight: bold;
+	height: 700px;
+	width: 100px;
+	float: left;
+	
+}
+.main_time p{
+	margin-left: 50px;
+	margin-bottom: 240px;
+	
+}
+.main_time .pp1{
+	margin-top: 55px;
+	margin-bottom: 265px;
+}
+.main_time .pp2{
+	margin-bottom: 280px;
+}
+.main_time .pp3{
+	
+}
+
+.time_axle{
+	/*background-color: aqua;*/
+	height: 700px;
+	width: 50px;
+	float: left;
+	margin: 0 auto;
+}
+.time_line{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 22px;
+	margin-right: 15px;
+	background-color: #4472C4;
+	height: 70px;
+	/*width: 30px;*/
+	float: left;
+	width: 3px;
+}
+.time_line_point{
+	background-color: #4472C4;
+	height: 15px;
+	margin-left: 4px;
+	
+	width: 40px;
+	float: left;
+}
+.time_line_star{
+	margin: 0px;
+	width: 40px;
+	/*background-color: #FFA500;*/
+	height: 50px;
+	/*width: 30px;*/
+	float: left;
+}
+.time_line_star img{
+	margin: 0px;
+}
+.main_content{
+	/*background-color: #FFFF00;*/
+	height: 620px;
+	width: 330px;
+	float: left;
+	color: #4472C4;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 80px;
+}
+.content_more_1{
+	margin-left: 240px;
+	margin-bottom: 60px;
+}
+.content_more_1 a{
+	color: #4472C4;
+}
+.content_more_2{
+	margin-left: 240px;
+	
+}
+.content_more_2 a{
+	color: #4472C4;
+}
+.star_sign{
+	color: #ED7D31;
+	font-size: 25px;
+	margin-bottom: 35px;
+	margin-top: 10px;
+	
+}
